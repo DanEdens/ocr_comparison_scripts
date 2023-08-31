@@ -1,0 +1,54 @@
+© Restricted Mode
+Hugging Face Code
+Ln9,Col5 Spaces: UTF-8
+LF {% Python AP
+
+ot
+
+008/008
+
+Ln, Col 299
+
+100% Wind
+
+shells HL BL
+
+Ae a>
+
+% 6 HL aeeem BL
+
+C:\Users\danedens\Lab\aivision>python findmatching.py >> temp.txt
+
+=
+
+TB ang SRT EG ‘omit. However, thisisa very basic example and might need
+Som ackitional functionality to work well for your use case. It also d
+
+‘matching and highlighting pat, which would bea significant (
+BD rremtmux
+
+Note that pyeesseract™ requires the Tesseract OCR softwan
+2 CEST: _ystem. You can instal fom here: ttps:fothub.com/UB- Me
+Scone make sure to Set the “pytesseract.pytesseract. tesseract
+
+‘your Tesseract executable.
+
+Please let me know if you need help with any other aspect oft
+
+p
+1D remartmeroptes ptup0
+2
+p
+
+export Varabiesin Basie (yee
+e
+aking rena Tempatres cue
+1
+x PE semaine ues Cm may pee cn rtm hone en 2
+° X ORestricted Mode @0A\3 Hugging Face Code Ln 13,Col7 Spaces:4 UTF-8 LF {8 Python A &
+vows ares
+Ln 1, Col 209 100% Wind
+oo8/o08
+® Search Bi ®e- mu @ o¢é@° & El shells BB 7 Ay O > WG FI i23s30em
+
+
